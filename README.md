@@ -20,7 +20,7 @@ connect via telnet
 
 
 
-commands for Genivive
+## commands for Genivive
    - type admin to get to admin options
    - 'current developers' returns list of names
    - 'new groupHang' creates a new group hang. 
