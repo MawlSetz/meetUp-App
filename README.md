@@ -1,10 +1,26 @@
 # meetUp-App
 
-## FEATURE SPECS
-   - via telnet, user connects to server    
-   - gets date, topic and current head count--> able to RSVP
-   - to RSVP user must provide name & address
-   -  admin is able to see current list of developers
-   -  able to set new date and topic for next meetup
-       + as well as simply delete previous meetup's info
-       + +(admin features only availble to admin)    
+
+
+## SPECS
+
+connects via telnet
+
+## user
+user provides name and address when prompted 
+user types more to recieve more info (date, topic, and headcount)
+user has the option to rsvp
+rsvp confirmation
+
+## admin 
+admin can access list of all developers involved
+admin can delete date, topic, and headcount(to make room for new information)
+admin can reset date, topic, and headcount
+
+
+
+
+commands for Genivive
+   -type admin to get to admin options
+   'current developers' returns list of names
+   'new groupHang' creates a new group hang. 
