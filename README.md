@@ -4,8 +4,6 @@
 
 ## SPECS
 
-connect via telnet
-
 ## user
 - user provides name and address when prompted 
 - user types more to recieve more info (date, topic, and headcount)
@@ -20,7 +18,7 @@ connect via telnet
 
 
 
-## commands for Genivive
+## commands for Admin
    - type admin to get to admin options
    - 'current developers' returns list of names
    - 'new groupHang' creates a new group hang. 
